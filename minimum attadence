@@ -1,0 +1,5 @@
+minimum_attadence=75
+name=input("enter the student's name:")
+attadence=float(input("enter the student's attadence percentage:"))
+if attadence>=minimum_attadence:
+print(f"{name}is not allowed to sit for the exam beacause their attadence is below{minimum_attadence}%.")
