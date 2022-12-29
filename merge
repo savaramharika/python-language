@@ -1,0 +1,6 @@
+list1=[3,4,2,1]
+list2=[6,7,5,8]
+merged_ascending=sorted(list1+list2)
+print("merged and sorted in ascending order:",merged_ascending)
+merged_ascending=sorted(list1+list2,reverse=true)
+print("merged and stored in descending order:",merged_descinding)
